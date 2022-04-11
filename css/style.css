@@ -103,9 +103,9 @@ span {
 
 .bottom {
     display: flex;
-    justify-content: space-between;
     height: 3rem;
     align-items: center;
+    margin-left: -3rem;
 }
 
 .bottom ul li {
